@@ -9,7 +9,7 @@ Note that in some languages, such as Java, there is no unsigned integer type. In
 In Java, the compiler represents the signed integers using 2's complement notation. Therefore, in Example 3, the input represents the signed integer. -3.
 
 ## IDE
-Visual Studio Code
+Visual Studio
 
 ## Language
 C++
